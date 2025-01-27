@@ -1,0 +1,14 @@
+{
+  "name": "my-kml-widget",
+  "label": "KML Uploader",
+  "description": "A widget for uploading and displaying KML files.",
+  "category": "Custom",
+  "icon": "default/icon.svg",
+  "properties": {
+    "hasSettingPage": true,
+    "supportInlineEditing": false
+  },
+  "translatedLocales": ["en", "es"],
+  "dependency": "jimu-arcgis",
+  "frameworkVersion": "1.16.0"
+}
